@@ -1,0 +1,7 @@
+C:\OneDrive\Área de Trabalho\Balta\EstoqueMedio\EstoqueMedio\obj\Debug\EstoqueMedio.csproj.AssemblyReference.cache
+C:\OneDrive\Área de Trabalho\Balta\EstoqueMedio\EstoqueMedio\obj\Debug\EstoqueMedio.csproj.CoreCompileInputs.cache
+C:\OneDrive\Área de Trabalho\Balta\EstoqueMedio\EstoqueMedio\bin\Debug\EstoqueMedio.exe.config
+C:\OneDrive\Área de Trabalho\Balta\EstoqueMedio\EstoqueMedio\bin\Debug\EstoqueMedio.exe
+C:\OneDrive\Área de Trabalho\Balta\EstoqueMedio\EstoqueMedio\bin\Debug\EstoqueMedio.pdb
+C:\OneDrive\Área de Trabalho\Balta\EstoqueMedio\EstoqueMedio\obj\Debug\EstoqueMedio.exe
+C:\OneDrive\Área de Trabalho\Balta\EstoqueMedio\EstoqueMedio\obj\Debug\EstoqueMedio.pdb

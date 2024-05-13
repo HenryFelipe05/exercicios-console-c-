@@ -1,0 +1,14 @@
+C:\Users\inliv\OneDrive\Área de Trabalho\Balta\Cronometro\Cronometro\bin\Debug\Cronometro.exe.config
+C:\Users\inliv\OneDrive\Área de Trabalho\Balta\Cronometro\Cronometro\bin\Debug\Cronometro.exe
+C:\Users\inliv\OneDrive\Área de Trabalho\Balta\Cronometro\Cronometro\bin\Debug\Cronometro.pdb
+C:\Users\inliv\OneDrive\Área de Trabalho\Balta\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.AssemblyReference.cache
+C:\Users\inliv\OneDrive\Área de Trabalho\Balta\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.CoreCompileInputs.cache
+C:\Users\inliv\OneDrive\Área de Trabalho\Balta\Cronometro\Cronometro\obj\Debug\Cronometro.exe
+C:\Users\inliv\OneDrive\Área de Trabalho\Balta\Cronometro\Cronometro\obj\Debug\Cronometro.pdb
+C:\OneDrive\Área de Trabalho\Balta\Cronometro\Cronometro\bin\Debug\Cronometro.exe.config
+C:\OneDrive\Área de Trabalho\Balta\Cronometro\Cronometro\bin\Debug\Cronometro.exe
+C:\OneDrive\Área de Trabalho\Balta\Cronometro\Cronometro\bin\Debug\Cronometro.pdb
+C:\OneDrive\Área de Trabalho\Balta\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.AssemblyReference.cache
+C:\OneDrive\Área de Trabalho\Balta\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.CoreCompileInputs.cache
+C:\OneDrive\Área de Trabalho\Balta\Cronometro\Cronometro\obj\Debug\Cronometro.exe
+C:\OneDrive\Área de Trabalho\Balta\Cronometro\Cronometro\obj\Debug\Cronometro.pdb

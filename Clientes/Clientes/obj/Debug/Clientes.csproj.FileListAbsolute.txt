@@ -1,0 +1,19 @@
+C:\OneDrive\Área de Trabalho\Balta\Nova pasta\Clientes\Clientes\bin\Debug\Clientes.exe.config
+C:\OneDrive\Área de Trabalho\Balta\Nova pasta\Clientes\Clientes\bin\Debug\Clientes.exe
+C:\OneDrive\Área de Trabalho\Balta\Nova pasta\Clientes\Clientes\bin\Debug\Clientes.pdb
+C:\OneDrive\Área de Trabalho\Balta\Nova pasta\Clientes\Clientes\obj\Debug\Clientes.csproj.AssemblyReference.cache
+C:\OneDrive\Área de Trabalho\Balta\Nova pasta\Clientes\Clientes\obj\Debug\Clientes.csproj.CoreCompileInputs.cache
+C:\OneDrive\Área de Trabalho\Balta\Nova pasta\Clientes\Clientes\obj\Debug\Clientes.exe
+C:\OneDrive\Área de Trabalho\Balta\Nova pasta\Clientes\Clientes\obj\Debug\Clientes.pdb
+C:\OneDrive\Área de Trabalho\Balta\Clientes\Clientes\bin\Debug\Clientes.exe.config
+C:\OneDrive\Área de Trabalho\Balta\Clientes\Clientes\bin\Debug\Clientes.exe
+C:\OneDrive\Área de Trabalho\Balta\Clientes\Clientes\bin\Debug\Clientes.pdb
+C:\OneDrive\Área de Trabalho\Balta\Clientes\Clientes\bin\Debug\Dapper.Contrib.dll
+C:\OneDrive\Área de Trabalho\Balta\Clientes\Clientes\bin\Debug\Dapper.dll
+C:\OneDrive\Área de Trabalho\Balta\Clientes\Clientes\bin\Debug\Dapper.xml
+C:\OneDrive\Área de Trabalho\Balta\Clientes\Clientes\bin\Debug\Dapper.Contrib.xml
+C:\OneDrive\Área de Trabalho\Balta\Clientes\Clientes\obj\Debug\Clientes.csproj.AssemblyReference.cache
+C:\OneDrive\Área de Trabalho\Balta\Clientes\Clientes\obj\Debug\Clientes.csproj.CoreCompileInputs.cache
+C:\OneDrive\Área de Trabalho\Balta\Clientes\Clientes\obj\Debug\Clientes.csproj.CopyComplete
+C:\OneDrive\Área de Trabalho\Balta\Clientes\Clientes\obj\Debug\Clientes.exe
+C:\OneDrive\Área de Trabalho\Balta\Clientes\Clientes\obj\Debug\Clientes.pdb

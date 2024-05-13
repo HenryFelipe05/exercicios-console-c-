@@ -1,0 +1,7 @@
+C:\OneDrive\Área de Trabalho\Balta\Lista De Exercicios\Exercicio01\bin\Debug\Exercicio01.exe.config
+C:\OneDrive\Área de Trabalho\Balta\Lista De Exercicios\Exercicio01\bin\Debug\Exercicio01.exe
+C:\OneDrive\Área de Trabalho\Balta\Lista De Exercicios\Exercicio01\bin\Debug\Exercicio01.pdb
+C:\OneDrive\Área de Trabalho\Balta\Lista De Exercicios\Exercicio01\obj\Debug\Exercicio01.csproj.AssemblyReference.cache
+C:\OneDrive\Área de Trabalho\Balta\Lista De Exercicios\Exercicio01\obj\Debug\Exercicio01.csproj.CoreCompileInputs.cache
+C:\OneDrive\Área de Trabalho\Balta\Lista De Exercicios\Exercicio01\obj\Debug\Exercicio01.exe
+C:\OneDrive\Área de Trabalho\Balta\Lista De Exercicios\Exercicio01\obj\Debug\Exercicio01.pdb

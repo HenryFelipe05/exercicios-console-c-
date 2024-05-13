@@ -1,0 +1,7 @@
+C:\OneDrive\Área de Trabalho\Balta\ConverterDolarEmReais\ConverterDolarEmReais\bin\Debug\ConverterDolarEmReais.exe.config
+C:\OneDrive\Área de Trabalho\Balta\ConverterDolarEmReais\ConverterDolarEmReais\bin\Debug\ConverterDolarEmReais.exe
+C:\OneDrive\Área de Trabalho\Balta\ConverterDolarEmReais\ConverterDolarEmReais\bin\Debug\ConverterDolarEmReais.pdb
+C:\OneDrive\Área de Trabalho\Balta\ConverterDolarEmReais\ConverterDolarEmReais\obj\Debug\ConverterDolarEmReais.csproj.AssemblyReference.cache
+C:\OneDrive\Área de Trabalho\Balta\ConverterDolarEmReais\ConverterDolarEmReais\obj\Debug\ConverterDolarEmReais.csproj.CoreCompileInputs.cache
+C:\OneDrive\Área de Trabalho\Balta\ConverterDolarEmReais\ConverterDolarEmReais\obj\Debug\ConverterDolarEmReais.exe
+C:\OneDrive\Área de Trabalho\Balta\ConverterDolarEmReais\ConverterDolarEmReais\obj\Debug\ConverterDolarEmReais.pdb

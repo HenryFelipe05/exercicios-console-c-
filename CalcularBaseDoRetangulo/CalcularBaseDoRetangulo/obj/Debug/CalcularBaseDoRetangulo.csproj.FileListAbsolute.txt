@@ -1,0 +1,7 @@
+C:\OneDrive\Área de Trabalho\Balta\CalcularBaseDoRetangulo\CalcularBaseDoRetangulo\bin\Debug\CalcularBaseDoRetangulo.exe.config
+C:\OneDrive\Área de Trabalho\Balta\CalcularBaseDoRetangulo\CalcularBaseDoRetangulo\bin\Debug\CalcularBaseDoRetangulo.exe
+C:\OneDrive\Área de Trabalho\Balta\CalcularBaseDoRetangulo\CalcularBaseDoRetangulo\bin\Debug\CalcularBaseDoRetangulo.pdb
+C:\OneDrive\Área de Trabalho\Balta\CalcularBaseDoRetangulo\CalcularBaseDoRetangulo\obj\Debug\CalcularBaseDoRetangulo.csproj.AssemblyReference.cache
+C:\OneDrive\Área de Trabalho\Balta\CalcularBaseDoRetangulo\CalcularBaseDoRetangulo\obj\Debug\CalcularBaseDoRetangulo.csproj.CoreCompileInputs.cache
+C:\OneDrive\Área de Trabalho\Balta\CalcularBaseDoRetangulo\CalcularBaseDoRetangulo\obj\Debug\CalcularBaseDoRetangulo.exe
+C:\OneDrive\Área de Trabalho\Balta\CalcularBaseDoRetangulo\CalcularBaseDoRetangulo\obj\Debug\CalcularBaseDoRetangulo.pdb

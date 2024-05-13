@@ -1,0 +1,7 @@
+C:\OneDrive\Área de Trabalho\Balta\PagamentoDeComissao\PagamentoDeComissao\bin\Debug\PagamentoDeComissao.exe.config
+C:\OneDrive\Área de Trabalho\Balta\PagamentoDeComissao\PagamentoDeComissao\bin\Debug\PagamentoDeComissao.exe
+C:\OneDrive\Área de Trabalho\Balta\PagamentoDeComissao\PagamentoDeComissao\bin\Debug\PagamentoDeComissao.pdb
+C:\OneDrive\Área de Trabalho\Balta\PagamentoDeComissao\PagamentoDeComissao\obj\Debug\PagamentoDeComissao.csproj.AssemblyReference.cache
+C:\OneDrive\Área de Trabalho\Balta\PagamentoDeComissao\PagamentoDeComissao\obj\Debug\PagamentoDeComissao.csproj.CoreCompileInputs.cache
+C:\OneDrive\Área de Trabalho\Balta\PagamentoDeComissao\PagamentoDeComissao\obj\Debug\PagamentoDeComissao.exe
+C:\OneDrive\Área de Trabalho\Balta\PagamentoDeComissao\PagamentoDeComissao\obj\Debug\PagamentoDeComissao.pdb
